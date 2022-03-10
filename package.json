@@ -1,0 +1,27 @@
+{
+  "name": "gibberish-htmls",
+  "version": "1.0.0",
+  "description": "Mini app that creates html files with gibberish data",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/COANelmejor/gibberish-htmls.git"
+  },
+  "keywords": [
+    "gibberish",
+    "html",
+    "generator"
+  ],
+  "author": "COANelmejor <coanelmejor@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/COANelmejor/gibberish-htmls/issues"
+  },
+  "homepage": "https://github.com/COANelmejor/gibberish-htmls#readme",
+  "dependencies": {
+    "gibberish-generator": "git://github.com/COANelmejor/gibberish-generator.git"
+  }
+}
